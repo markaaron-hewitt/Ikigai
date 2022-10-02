@@ -1,3 +1,6 @@
+# Ikigai Webpage
+Very simple website that was only created to show a basic use of React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
