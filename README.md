@@ -1,4 +1,4 @@
-# Ikigai Webpage
+# Ikigai Webpage (React)
 Very simple website that shows a very basic use of React.
 
 # Getting Started with Create React App
